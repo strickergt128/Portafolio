@@ -1,0 +1,19 @@
+.part1{
+  text-align: left;
+}
+.part2{
+  text-align: right;
+}
+body{
+  font-family: 'Palanquin Dark', sans-serif !important;
+}
+.nav{
+  border-bottom: 1px solid #DDDDDD;
+}
+.Titulo{
+  color: 	#989A9B;
+  text-align: left;
+}
+.section{
+  text-align: center;
+}
